@@ -1,4 +1,4 @@
-# A/B-Testing
+# A/B Testing
 ## Overview
 Two case studies for A/B Testing are completed; one for a hypothetical softward company trying to improve download and purchasing rates of their software, and another, a former "take-home" assignment for Starbucks job candidates, investigating seven abstract features to indicate whether a customer should receive a promotion.
 
